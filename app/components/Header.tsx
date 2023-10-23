@@ -6,15 +6,10 @@ export default function Header() {
                 <a className="hover:text-[#00e77f]" href="#">
                     Home &nbsp;
                 </a>
-                <a className="hover:text-[#00e77f]" href="#cursos">
+                <a className="hover:text-[#00e77f]" href="#join now">
                     Cursos &nbsp;
                 </a>
-                <a className="hover:text-[#00e77f]" href="#contato">
-                    Contato &nbsp;{" "}
-                </a>
-                <a className="hover:text-[#00e77f]" href="#">
-                    Login &nbsp;
-                </a>
+                
             </nav>
         </header>
     )
