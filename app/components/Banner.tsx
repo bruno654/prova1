@@ -3,7 +3,7 @@ export default  function Banner() {
         <div>
             <div className="md:flex items-center flex-row-reverse">
                 <div className="basis-1/2">
-                    <img src="/img/banner.svg" alt="Descrição da Imagem" />
+                    <img src="/workspaces/prova1/app/img/banner.png" alt="Descrição da Imagem" />
                 </div>
                 <div className="basis-1/2 text-center text-white">
                     <h2>UTFTEC</h2>
