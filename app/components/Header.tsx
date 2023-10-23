@@ -1,7 +1,11 @@
 export default function Header() {
     return (
         <header className="text-center text-white py-8 border-b border-[#4d4d4d] md:flex itens-center justify-between">
-            <h4>🏫FITCLUB📘</h4>
+            <h4>FITCLUB</h4>
+            <div className="basis-1/2">
+                <img src="/img/banner.png" alt="Descrição da Imagem" />
+            </div>
+
             <nav>
                 <a className="hover:text-[#00e77f]" href="#">
                     Home &nbsp;
