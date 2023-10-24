@@ -3,7 +3,7 @@ export default function Header() {
         <header className="text-center text-white py-8 border-b border-[#4d4d4d] md:flex itens-center justify-between">
             <h4>FITCLUB</h4>
             <div className="basis-1/2">
-                <img src="/workspaces/prova1/app/img/Header.png" alt=" img" />
+                <img src="/workspaces/prova1/app/img/transferir.jpg" alt=" img" />
             </div>
 
             <nav>
