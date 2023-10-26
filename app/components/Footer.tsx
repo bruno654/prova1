@@ -7,13 +7,86 @@ const kaushan = Kaushan_Script({
 })
 export default function Footer () {
     return (
+        
         <footer id="contato" className="mt-16">
+          <img className="hover:scale-105" src="/img/logo.svg" alt="" />  
             
-            <div className=" text-white mt-8 border-t">
-                <p className={kaushan.className} >Copyright © 2023 UTFPR. All rights reserved.</p>
-            </div>
+        <div className="bg-black rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px' }}>
+            <a href="/curso_html.html">
+                <div className="text-white text-center">
+                <p>Take the first step towards a healthier, stronger
+                you with our unbeatable pricing plans. Let's sweat,
+                achieve, and conquer together!</p>
+           
+                </div>
+            </a>
+        </div>
+        <div className="bg-black rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px' }}>
+            <a href="/curso_html.html">
+                <div className="text-white text-center">
+                <p>Company
+                        Business
+                        Franchise
+                        Partnership
+                    Network</p>
+           
+                </div>
+            </a>
+        </div>
+        <div className="bg-black rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px' }}>
+            <a href="/curso_html.html">
+                <div className="text-white text-center">
+                <h1>Company</h1>
+                <p>
+                    Business
+                    Franchise
+                Partnership
+                Network
+                </p>
+           
+                </div>
+            </a>
+        </div>
+        <div className="bg-black rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px' }}>
+            <a href="/curso_html.html">
+                <div className="text-white text-center">
+                <h1>Contact</h1>
+                <p>
+                
+                Contact Us
+                Privacy Policy
+                Terms & Conditions
+                BMI Calculator
+                </p>
+           
+                </div>
+            </a>
+        </div>
 
-            <div className="flex justify-end text-2xl text-center space-x-4">
+        <div className="bg-black rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px' }}>
+            <a href="/curso_html.html">
+                <div className="text-white text-center">
+                <h1>About Us</h1>
+                <p>
+                Blogs
+                Security
+                Careers</p>
+           
+                </div>
+            </a>
+        </div>
+        
+
+
+
+
+
+
+
+
+
+
+<div className="flex justify-end text-2xl text-center space-x-4">
                 <a href="httt://www.facebook.com/seuenderece">
                     <svg
                         fill="white"
@@ -59,8 +132,18 @@ export default function Footer () {
                         <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" />
                     </svg>
                 </a>
+                
                
             </div>
+
+            <div className=" text-white mt-8 border-t">
+                
+                <p className={kaushan.className} >Copyright © 2023 UTFPR. All rights reserved.</p>
+            </div>
+            
+
+            
         </footer>
+        
     )
 }
