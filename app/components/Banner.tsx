@@ -17,10 +17,10 @@ export default function Banner() {
           BEST FITNESS IN THE TOWN
         </h2>
         <h3 className="font-bold text-6xl text-white mb-2">
-        <span>&lsquo;'MAKE YOUR BODY SHAPE&rsquo;'</span>
+          <span>'MAKE YOUR BODY SHAPE'</span>
         </h3>
         <div className="text-white text-lg mb-6">
-          Unleash your potential and embark on a journey towards a stronger, fitter, and more confident you. Sign up for &lsquo;Make Your Body Shape&rsquo; now and witness the incredible transformation your body is capable of!
+          Unleash your potential and embark on a journey towards a stronger, fitter, and more confident you. Sign up for 'Make Your Body Shape' now and witness the incredible transformation your body is capable of!
         </div>
         <a
           className="text-white bg-[#F9AC54] px-2 py-[4px] rounded hover:bg-blue hover:text-white"
