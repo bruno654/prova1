@@ -14,14 +14,14 @@ export default function Footer() {
       <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
         <a href="/curso_html.html">
           <div className="text-white text-center">
-            <p>&lsquo;'Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!&rsquo;'</p>
+          <p>&lsquo;'Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!&rsquo;'</p>
           </div>
         </a>
       </div>
       <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
         <a href="/curso_html.html">
           <div className="text-white text-center">
-            <p>&lsquo;'Company Business Franchise Partnership Network&rsquo;'</p>
+          <p>&lsquo;'Company Business Franchise Partnership Network&rsquo;'</p>
           </div>
         </a>
       </div>
