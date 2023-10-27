@@ -9,7 +9,7 @@ export default function Header() {
       <nav>
         <a
           className="text-[white] bg-[#F9AC54] px-2 py-2 rounded border-2 border-blue-500 hover:bg-blue-600 hover:text-white"
-          href="#"
+          
         >
           Join Now
         </a>
