@@ -9,13 +9,13 @@ export default function Courses() {
       </div>
 
       <div className="md:col-span-2 lg:col-span-3 mt-2 text-green-300 text-4xl text-center">
-        <h2 id="cursos" style={{ color: '#FFF', textAlign: 'center', fontFamily: 'Poppins', fontSize: '36px', fontStyle: 'normal', fontWeight: '600', lineHeight: 'normal' }}>
+        <h2 id="cursos" className="text-white text-center font-Poppins text-4xl font-normal font-weight-600">
           EXPLORE OUR PROGRAM
         </h2>
       </div>
 
       <div className="flex gap-4">
-        <div className="bg-[#4d4d4d] rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px', background: '#1F2125' }}>
+        <div className="bg-[#4d4d4d] rounded-md pb-2 w-[224px] self-stretch rounded-[10px] bg-[#1F2125]">
           <a href="/curso_html.html">
             <Image src="/img/span.h2d-2c1f7555.svg" alt="Descrição da Imagem" width={46} height={46} />
 
@@ -26,7 +26,7 @@ export default function Courses() {
             </div>
           </a>
         </div>
-        <div className="bg-[#4d4d4d] rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px', background: '#1F2125' }}>
+        <div className="bg-[#4d4d4d] rounded-md pb-2 w-[224px] self-stretch rounded-[10px] bg-[#1F2125]">
           <a href="/curso_css.html">
             <Image src="/img/span.h2d-f5945c58.svg" alt="Descrição da Imagem" width={46} height={46} />
 
@@ -37,7 +37,7 @@ export default function Courses() {
             </div>
           </a>
         </div>
-        <div className="bg-[#4d4d4d] rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px', background: '#1F2125' }}>
+        <div className="bg-[#4d4d4d] rounded-md pb-2 w-[224px] self-stretch rounded-[10px] bg-[#1F2125]">
           <a href="/curso_js.html">
             <Image src="/img/span.h2d-54bf5fec (1).svg" alt="Descrição da Imagem" width={46} height={46} />
 
@@ -48,7 +48,7 @@ export default function Courses() {
             </div>
           </a>
         </div>
-        <div className="bg-[#4d4d4d] rounded-md pb-2" style={{ width: '224px', alignSelf: 'stretch', borderRadius: '10px', background: '#1F2125' }}>
+        <div className="bg-[#4d4d4d] rounded-md pb-2 w-[224px] self-stretch rounded-[10px] bg-[#1F2125]">
           <a href="/curso_html.html">
             <Image src="/img/span.h2d-9e0534cb.svg" alt="Descrição da Imagem" width={46} height={46} />
 
@@ -62,19 +62,19 @@ export default function Courses() {
       </div>
 
       <div className="md:col-span-2 lg:col-span-3 mt-2 text-green-300 text-4xl text-center">
-        <h2 id="cursos" style={{ color: '#FFF', textAlign: 'center', fontFamily: 'Poppins', fontSize: '36px', fontStyle: 'normal', fontWeight: '600', lineHeight: 'normal' }}>
+        <h2 id="cursos" className="text-white text-center font-Poppins text-4xl font-normal font-weight-600">
           WHY JOIN US
         </h2>
 
-        <p style={{ color: 'white' }}>Our diverse membership base creates a friendly and supportive atmosphere, where you can make friends and stay motivated.</p>
+        <p className="text-white">Our diverse membership base creates a friendly and supportive atmosphere, where you can make friends and stay motivated.</p>
         <Image src="/img/join.jpg.svg" alt="Descrição da Imagem" width={992} height={381} />
       </div>
 
-      <div className="bg-[#4d4d4d] rounded-md pb-2" style={{ display: 'flex', width: '928px', height: '172.5px', padding: '32px 32.01px 32px 32px', alignItems: 'flex-start', alignContent: 'flex-start', gap: '0px 32px', flexWrap: 'wrap' }}>
+      <div className="bg-[#4d4d4d] rounded-md pb-2 flex w-[928px] h-[172.5px] p-[32px] gap-[32px] flex-wrap">
         <a href="/curso_html.html">
           <Image src="/img/span.h2d-d05be9c1.svg" alt="Descrição da Imagem" width={52} height={52} />
 
-          <div className="text-white text-center" style={{ display: 'flex', flexDirection: 'row', alignItems: 'center' }}>
+          <div className="text-white text-center flex flex-row items-center">
             <h3>Personal Trainer</h3>
             <p>&lsquo;Unlock your potential with our expert Personal Trainers.&rsquo;</p>
             <Image src="/img/span.h2d-f2d1818.svg" alt="Descrição da Imagem" width={52} height={52} />
