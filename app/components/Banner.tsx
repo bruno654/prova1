@@ -34,7 +34,7 @@ export default function Banner() {
             color: '#FFF',
           }}
         >
-          <span>&apos;MAKE YOUR BODY SHAPE&apos;</span>
+          <span>&lsquo;MAKE YOUR BODY SHAPE&rsquo;</span>
         </h3>
         <div
           style={{
@@ -45,7 +45,7 @@ export default function Banner() {
             alignItems: 'flex-start',
           }}
         >
-          Unleash your potential and embark on a journey towards a stronger, fitter, and more confident you. Sign up for &apos;Make Your Body Shape&apos; now and witness the incredible transformation your body is capable of!
+          Unleash your potential and embark on a journey towards a stronger, fitter, and more confident you. Sign up for &lsquo;Make Your Body Shape&rsquo; now and witness the incredible transformation your body is capable of!
         </div>
         <a
           className="text-white bg-[#F9AC54] px-2 py-[4px] rounded hover:bg-blue hover:text-white"
