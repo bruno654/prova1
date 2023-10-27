@@ -21,7 +21,7 @@ export default function Courses() {
 
             <div className="text-white text-center">
               <h3>Strength</h3>
-              <p>&lsquo;Embrace the essence of strength as we delve into its various dimensions—physical, mental, and emotional.&rsquo;</p>
+              <p>&lsquo;'Embrace the essence of strength as we delve into its various dimensions—physical, mental, and emotional.'&rsquo;</p>
               <h4>Join Now <Image src="/img/Icon.svg" alt="Descrição da Imagem" width={16} height={16} /></h4>
             </div>
           </a>
@@ -32,7 +32,7 @@ export default function Courses() {
 
             <div className="text-white text-center">
               <h3>Physical Fitness</h3>
-              <p>&lsquo;It encompasses a range of activities that improve health, strength, flexibility, and overall well-being.&rsquo;</p>
+              <p>&lsquo;'It encompasses a range of activities that improve health, strength, flexibility, and overall well-being.'&rsquo;</p>
               <h4>Join Now <Image src="/img/Icon.svg" alt="Descrição da Imagem" width={16} height={16} /></h4>
             </div>
           </a>
@@ -43,7 +43,7 @@ export default function Courses() {
 
             <div className="text-white text-center">
               <h3>Fat Loss</h3>
-              <p>&lsquo;Through a combination of workout routines and expert guidance, we'll empower you to reach your goals.&rsquo;</p>
+              <p>&lsquo;'Through a combination of workout routines and expert guidance, we'll empower you to reach your goals.&rsquo;'</p>
               <h4>Join Now <Image src="/img/Icon.svg" alt="Descrição da Imagem" width={16} height={16} /></h4>
             </div>
           </a>
@@ -54,7 +54,7 @@ export default function Courses() {
 
             <div className="text-white text-center">
               <h3>Weight Gain</h3>
-              <p>&lsquo;Designed for individuals, our program offers an effective approach to gaining weight in a sustainable manner.&rsquo;</p>
+              <p>&lsquo;'Designed for individuals, our program offers an effective approach to gaining weight in a sustainable manner.&rsquo;'</p>
               <h4>Join Now <Image src="/img/Icon.svg" alt="Descrição da Imagem" width={16} height={16} /></h4>
             </div>
           </a>
@@ -76,15 +76,15 @@ export default function Courses() {
 
           <div className="text-white text-center flex flex-row items-center">
             <h3>Personal Trainer</h3>
-            <p>&lsquo;Unlock your potential with our expert Personal Trainers.&rsquo;</p>
+            <p>&lsquo;'Unlock your potential with our expert Personal Trainers.'&rsquo;</p>
             <Image src="/img/span.h2d-f2d1818.svg" alt="Descrição da Imagem" width={52} height={52} />
             
             <h3>Practice Sessions</h3>
-            <p>&lsquo;Elevate your fitness with practice sessions.&rsquo;</p>
+            <p>&lsquo;'Elevate your fitness with practice sessions.&rsquo;'</p>
             <Image src="/img/span.h2d-1af18d67.svg" alt="Descrição da Imagem" width={52} height={52} />
             
             <h3>Good Management</h3>
-            <p>&lsquo;Supportive management for your fitness success.&rsquo;</p>
+            <p>&lsquo;'Supportive management for your fitness success.&rsquo;'</p>
           </div>
         </a>
       </div>

@@ -14,14 +14,14 @@ export default function Footer() {
       <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
         <a href="/curso_html.html">
           <div className="text-white text-center">
-            <p>&lsquo;Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!&rsquo;</p>
+            <p>&lsquo;'Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!&rsquo;'</p>
           </div>
         </a>
       </div>
       <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
         <a href="/curso_html.html">
           <div className="text-white text-center">
-            <p>&lsquo;Company Business Franchise Partnership Network&rsquo;</p>
+            <p>&lsquo;'Company Business Franchise Partnership Network&rsquo;'</p>
           </div>
         </a>
       </div>
@@ -29,7 +29,7 @@ export default function Footer() {
         <a href="/curso_html.html">
           <div className="text-white text-center">
             <h1>Company</h1>
-            <p>&lsquo;Business Franchise Partnership Network&rsquo;</p>
+            <p>&lsquo;'Business Franchise Partnership Network&rsquo;'</p>
           </div>
         </a>
       </div>
@@ -37,7 +37,7 @@ export default function Footer() {
         <a href="/curso_html.html">
           <div className="text-white text-center">
             <h1>Contact</h1>
-            <p>&lsquo;Contact Us Privacy Policy Terms & Conditions BMI Calculator&rsquo;</p>
+            <p>&lsquo;'Contact Us Privacy Policy Terms & Conditions BMI Calculator'&rsquo;</p>
           </div>
         </a>
       </div>
@@ -45,7 +45,7 @@ export default function Footer() {
         <a href="/curso_html.html">
           <div className="text-white text-center">
             <h1>About Us</h1>
-            <p>&lsquo;Blogs Security Careers&rsquo;</p>
+            <p>&lsquo;'Blogs Security Careers&rsquo;'</p>
           </div>
         </a>
       </div>
