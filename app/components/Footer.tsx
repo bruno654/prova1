@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="bg-black rounded-md w-56 p-2 rounded-lg text-white text-center">
           <a href="/curso_html.html">
             <div className="flex flex-col items-start">
-              <p className="w-400 h-32">&lsquo;Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!&rsquo;</p>
+              <p className="w-400 h-32">&#39;Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let&apos;s sweat, achieve, and conquer together!&#39;</p>
             </div>
           </a>
         </div>
@@ -24,7 +24,7 @@ export default function Footer() {
         <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
           <a href="/curso_html.html">
             <div className="text-white text-center">
-              <p>&lsquo;Company Business Franchise Partnership Network&rsquo;</p>
+              <p>&#39;Company Business Franchise Partnership Network&#39;</p>
             </div>
           </a>
         </div>
@@ -32,7 +32,7 @@ export default function Footer() {
           <a href="/curso_html.html">
             <div className="text-white text-center">
               <h1 className="text-white font-poppins text-xl font-semibold">Company</h1>
-              <p>&lsquo;Business Franchise Partnership Network&rsquo;</p>
+              <p>&#39;Business Franchise Partnership Network&#39;</p>
             </div>
           </a>
         </div>
@@ -40,7 +40,7 @@ export default function Footer() {
           <a href="/curso_html.html">
             <div className="text-white text-center">
               <h1 className="text-white font-poppins text-xl font-semibold">Contact</h1>
-              <p>&lsquo;Contact Us Privacy Policy Terms & Conditions BMI Calculator&rsquo;</p>
+              <p>&#39;Contact Us Privacy Policy Terms &amp; Conditions BMI Calculator&#39;</p>
             </div>
           </a>
         </div>
@@ -48,7 +48,7 @@ export default function Footer() {
           <a href="/curso_html.html">
             <div className="text-white text-center">
               <h1 className="text-white font-poppins text-xl font-semibold">About Us</h1>
-              <p>&lsquo;Blogs Security Careers&rsquo;</p>
+              <p>&#39;Blogs Security Careers&#39;</p>
             </div>
           </a>
         </div>
