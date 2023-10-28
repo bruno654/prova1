@@ -12,44 +12,48 @@ export default function Footer() {
     <footer id="contato" className="mt-16">
       <Image src="/img/logo.svg" alt="Descrição da Imagem" width={150} height={35.25} />
 
-      <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
-        <a href="/curso_html.html">
-          <div className="text-white text-center">
-            <p>&lsquo;Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!&rsquo;</p>
-          </div>
-        </a>
+      <div className="flex space-x-4">
+      <div className="bg-black rounded-md w-56 p-2 rounded-lg text-white text-center">
+  <a href="/curso_html.html">
+    <div className="flex flex-col items-start">
+      <p className="w-400 h-32">&lsquo;Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!&rsquo;</p>
+    </div>
+  </a>
+</div>
+
+  <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
+    <a href="/curso_html.html">
+      <div className="text-white text-center">
+        <p>&lsquo;Company Business Franchise Partnership Network&rsquo;</p>
       </div>
-      <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
-        <a href="/curso_html.html">
-          <div className="text-white text-center">
-            <p>&lsquo;Company Business Franchise Partnership Network&rsquo;</p>
-          </div>
-        </a>
+    </a>
+  </div>
+  <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
+    <a href="/curso_html.html">
+      <div className="text-white text-center">
+        <h1 className="text-white font-poppins text-xl font-semibold">Company</h1>
+        <p>&lsquo;Business Franchise Partnership Network&rsquo;</p>
       </div>
-      <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
-        <a href="/curso_html.html">
-          <div className="text-white text-center">
-            <h1>Company</h1>
-            <p>&lsquo;Business Franchise Partnership Network&rsquo;</p>
-          </div>
-        </a>
+    </a>
+  </div>
+  <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
+    <a href="/curso_html.html">
+      <div className="text-white text-center">
+        <h1 className="text-white font-poppins text-xl font-semibold">Contact</h1>
+        <p>&lsquo;Contact Us Privacy Policy Terms & Conditions BMI Calculator&rsquo;</p>
       </div>
-      <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
-        <a href="/curso_html.html">
-          <div className="text-white text-center">
-            <h1>Contact</h1>
-            <p>&lsquo;Contact Us Privacy Policy Terms & Conditions BMI Calculator&rsquo;</p>
-          </div>
-        </a>
+    </a>
+  </div>
+  <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
+    <a href="/curso_html.html">
+      <div className="text-white text-center">
+        <h1 className="text-white font-poppins text-xl font-semibold">About Us</h1>
+        <p>&lsquo;Blogs Security Careers&rsquo;</p>
       </div>
-      <div className="bg-black rounded-md w-56 self-stretch p-2 rounded-lg">
-        <a href="/curso_html.html">
-          <div className="text-white text-center">
-            <h1>About Us</h1>
-            <p>&lsquo;Blogs Security Careers&rsquo;</p>
-          </div>
-        </a>
-      </div>
+    </a>
+  </div>
+</div>
+
       <div className="flex justify-end text-2xl text-center space-x-4">
         <a href="http://www.facebook.com/seuenderece">
           <svg fill="white" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512">

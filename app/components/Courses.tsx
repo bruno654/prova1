@@ -37,7 +37,7 @@ export default function Courses() {
             </div>
           </a>
         </div>
-        <div className="bg-[#4d4d4d] rounded-md pb-2 w-[224px] self-stretch rounded-[10px] bg-[#1F2125]">
+        <div className="bg-[#4d4d4d] rounded-md pb-2 w-224 h-319 self-stretch rounded-[10px] bg-[#1F2125]">
           <a href="/curso_js.html">
             <Image src="/img/span.h2d-54bf5fec (1).svg" alt="Descrição da Imagem" width={46} height={46} />
 
@@ -48,7 +48,7 @@ export default function Courses() {
             </div>
           </a>
         </div>
-        <div className="bg-[#4d4d4d] rounded-md pb-2 w-[224px] self-stretch rounded-[10px] bg-[#1F2125]">
+        <div className="bg-[#4d4d4d] rounded-md pb-2 w-224 h-319 self-stretch rounded-[10px] bg-[#1F2125]">
           <a href="/curso_html.html">
             <Image src="/img/span.h2d-9e0534cb.svg" alt="Descrição da Imagem" width={46} height={46} />
 
@@ -60,6 +60,7 @@ export default function Courses() {
           </a>
         </div>
       </div>
+
 
       <div className="md:col-span-2 lg:col-span-3 mt-2 text-green-300 text-4xl text-center">
         <h2 id="cursos" className="text-white text-center font-Poppins text-4xl font-normal font-weight-600">
@@ -78,11 +79,11 @@ export default function Courses() {
             <h3>Personal Trainer</h3>
             <p>&lsquo;Unlock your potential with our expert Personal Trainers.&rsquo;</p>
             <Image src="/img/span.h2d-f2d1818.svg" alt="Descrição da Imagem" width={52} height={52} />
-            
+
             <h3>Practice Sessions</h3>
             <p>&lsquo;Elevate your fitness with practice sessions.&rsquo;</p>
             <Image src="/img/span.h2d-1af18d67.svg" alt="Descrição da Imagem" width={52} height={52} />
-            
+
             <h3>Good Management</h3>
             <p>&lsquo;Supportive management for your fitness success.&rsquo;</p>
           </div>
